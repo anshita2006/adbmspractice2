@@ -1,11 +1,11 @@
 # ADBMS Practice2
 Part A:
- Departments Table:
+ Departments :
 <img width="973" height="345" alt="image" src="https://github.com/user-attachments/assets/cd9e4687-ec50-4337-823a-333ec2753733" />
 
 
 
-Courses Table
+Courses 
 <img width="608" height="584" alt="image" src="https://github.com/user-attachments/assets/873ba9b4-215c-404a-aa0f-a66039075216" />
 Part B:
 
